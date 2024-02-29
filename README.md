@@ -1,9 +1,24 @@
-# Project Lazarus
+# README
 
-A personal project for me to become better at web development. The main goal is to produce a page where one can login and go through several different exercises and guides within both technical and business areas - for example, Excel, Python, SQL and other topics one might encounter during a work day. A future idea is also to have quizes for you to test yourself or prepare to a job interview or job situation.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-This site is created with:
-* Ruby on Rails 3
-* Devise (for authentication)
-* Vite + React for frontend
+Things you may want to cover:
 
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
