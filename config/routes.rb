@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
   get 'home/index'
+  get 'home/excel'
+  get 'home/programming'
+  get 'home/contact'
   devise_for :users
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
